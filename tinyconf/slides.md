@@ -3,7 +3,7 @@
 theme: default
 # some information about your slides (markdown enabled)
 title: Learn Angular Three via live-coding
-class: text-center
+class: text-center font-xl
 highlighter: shiki
 transition: slide-left
 mdc: true
@@ -18,6 +18,14 @@ https://github.com/angular-threejs/angular-three
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
+
+---
+
+# Chau Tran
+
+## Engineer at Nx
+
+## nartc.me | @nartc1410
 
 ---
 transition: fade-out
@@ -443,5 +451,3 @@ sequenceDiagram
 </div>
 
 <PoweredBySlidev />
-
-
