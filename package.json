@@ -17,7 +17,12 @@
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/router": "^18.0.0",
+    "angular-three": "^2.0.0-beta.242",
+    "angular-three-soba": "^2.0.0-beta.242",
+    "ngxtension": "^3.5.5",
     "rxjs": "~7.8.0",
+    "three": "^0.166.0",
+    "three-stdlib": "^2.30.3",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
   },
@@ -25,6 +30,9 @@
     "@angular-devkit/build-angular": "^18.0.6",
     "@angular/cli": "^18.0.6",
     "@angular/compiler-cli": "^18.0.0",
+    "@types/three": "^0.165.0",
+    "prettier": "^3.3.2",
+    "prettier-plugin-organize-imports": "^3.2.4",
     "typescript": "~5.4.2"
   }
 }
