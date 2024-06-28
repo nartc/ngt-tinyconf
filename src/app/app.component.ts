@@ -1,17 +1,12 @@
 import { Component } from "@angular/core";
-import { RouterOutlet } from "@angular/router";
+import { Experience } from "./experience";
 
 @Component({
 	selector: "app-root",
 	standalone: true,
-	imports: [RouterOutlet],
+	imports: [Experience],
 	template: `
-		<h1>Welcome to {{ title }}!</h1>
-
-		<router-outlet />
+		<app-experience />
 	`,
-	styles: [],
 })
-export class AppComponent {
-	title = "ngt-tinyconf";
-}
+export class AppComponent {}
